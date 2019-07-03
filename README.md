@@ -9,6 +9,7 @@
   
   Building Url
   http://magento.com/tutorial/page/helloword
+  
        Baseurl       Frontend Controller  Action
        
  4. code -> SimplifiedMagento -> FirstModule -> etc -> frontend -> routes.xml
