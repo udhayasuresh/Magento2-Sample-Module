@@ -23,3 +23,10 @@ http://localhost/Magento/tutorial/page/helloworld
 1. Vendor -> magento -> module-catalog -> etc -> module.xml
 2. Vendor -> magento -> module-catalog -> registration.php
 3. Vendor -> magento -> module-catalog -> etc -> frontend -> routes.xml
+
+
+
+
+
+
+https://magento.stackexchange.com/questions/200022/how-to-create-custom-module-development-in-magento-2-from-scratch
